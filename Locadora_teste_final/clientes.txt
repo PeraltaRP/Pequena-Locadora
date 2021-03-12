@@ -1,0 +1,71 @@
+001
+pedro
+066
+rua vaticano
+0.0
+0
+002
+rafael
+066
+rauvaticano
+0.0
+0
+003
+peralta
+066
+rua vaticano
+0.0
+0
+004
+paula
+066
+rua vaticano
+0.0
+0
+005
+paulo
+066
+rua vaticano
+0.0
+0
+001/001
+hotel Colombo
+Hotelarai LTDA
+066
+rua vaticano
+0.0
+0
+002/001
+castrilon Auto Pecas
+vendas de pecas S.A
+066
+rua vaticano
+0.0
+0
+003/001
+HP Notbooks
+Vendas de Produtos Eletronicos
+066
+rua  vaticano
+0.0
+0
+004/001
+LG 
+Produtora de Eletroeletronicos
+066
+rua vaticano
+0.0
+0
+005/002
+Xaiomi
+Produtora de Eletronicos
+066
+rua vaticano
+0.0
+0
+009
+linder candido
+0987
+rua treva
+0.0
+1

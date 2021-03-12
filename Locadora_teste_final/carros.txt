@@ -1,0 +1,72 @@
+njb 5719
+Fiat uno mille 1.0 2P flex
+2018
+veiculo equipado com ar, travas eletricas
+0
+o veiculo não apresenta quisquers tracao de uso
+50.0
+60.0
+1
+nbn 5349
+Volvo ITK 2.0 4P gasolina
+2019
+Veiculo com ar e direcao hidraulica, acompanha sistemas de arbbeg
+100
+veiculo novo
+79.0
+120.0
+0
+nkk 5699
+Fiat bravo 1.4 4P gasolina
+2019
+veiculo com ar, direcao hidraulica e vidro eletricos
+190
+veiculo apresenta alguns aranhoes na lataria do lado do motorista
+59.0
+100.0
+0
+ppp 9090
+Fiat Argo 1.3 4P flex
+2019
+veiculo completo ar, travas, vidros e aribag, direcao eletrica 
+10000
+veiculo aprenta riscos da traseira do lado do pasageiro
+90.0
+110.0
+0
+kkk 9090
+Fiat Cronos sedã 1.4 4P gasolina
+2019
+veiculo completo com ar, direcao, vidros e travas eletricas
+2000
+veiculo nao apresenta avarias
+70.0
+110.0
+0
+njb 7510
+Volvo KK 33 2.0 4P gasolina
+2020
+veiculo completo com ar direcional, gps, tela multimidia, direcao, vidros e travas eletricas
+90
+veiculo nao apresenta avarias
+90.0
+140.0
+0
+nki 9009
+Toyota Etios 1.5 4P hatc gasolina
+2019
+veiculo com ar e direcao hidraulica
+12000
+veiculo apresenta riscos nas laterias de ambos os lado
+67.0
+90.0
+0
+PPP 090
+Ford fiesta sedao 1.5 4P alcool
+2007
+veiculo completo com ar direcao vidros e travas eletricas
+1000
+alguns aranhoes na ataria 
+90.0
+100.0
+0
