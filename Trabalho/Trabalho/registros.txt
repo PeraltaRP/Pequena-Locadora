@@ -1,0 +1,3 @@
+er,/home/pedro/Área de Trabalho/2021/Disciplinas/Sistemas Distribuidos/Trabalho/Trabalho/er.txt,peralta
+ls,/home/pedro/Área de Trabalho/ls.txt,rafael
+erer,/home/pedro/Área de Trabalho/erer.txt,rafael
